@@ -1,21 +1,5 @@
 # BistabilityExample
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @paweldziadur Sign out
-0
-0 0 paweldziadur/BistabilityExample
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-BistabilityExample/BistabilityExampleDescription.txt
-7c1b64b  7 minutes ago
- Pawel First commit
-     
-27 lines (14 sloc)  3.13 KB
 In my sketch I was trying to present a bistable image / animation which draws from three sources:
 
 —1. Ambiguity of interpretation of 3D objects looked at from a certain angle (in this case just a 2D projection of a 3D object on the computers screen) similar to Necker cube (Louis Albert Necker 1786–1861). 
@@ -43,16 +27,3 @@ It takes some effort to imagine that initially looked at “face” is a concave
 When rotating the image can became non-ambiguous as we realise that the “face” was a concave element and the projection of the object is just cut through screen. After pressing any key again we come back to the beginning, and we can see if after seeing the object rotating we are able to interpret it differently (in some moment after seeing the rotation when it stops, or perhaps only during certain moment during rotation).
 
 I also noted that in some online examples it was relevant that we perceive the object starting from scanning bottom to top, so I noticed that my sketch is more interesting when the central object is shifted towards the bottom of the screen.
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
